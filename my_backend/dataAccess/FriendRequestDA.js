@@ -75,4 +75,4 @@ export {
     getAllReceivedFriendRequests,
     deleteFriendRequest,
     postFriendRequest,
-};
+};  
