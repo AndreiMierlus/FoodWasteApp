@@ -1,0 +1,30 @@
+/* ItemList.css */
+
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+  }
+  
+  .category {
+    font-size: 18px;
+    font-weight: bold;
+    margin-top: 20px;
+  }
+  
+  .item {
+    border: 1px solid #ddd;
+    padding: 10px;
+    margin-top: 10px;
+    background-color: #f9f9f9;
+  }
+  
+  .item:hover {
+    background-color: #e6e6e6;
+  }
+  
+  .no-items {
+    margin-top: 20px;
+    font-style: italic;
+    color: #888;
+  }
+  

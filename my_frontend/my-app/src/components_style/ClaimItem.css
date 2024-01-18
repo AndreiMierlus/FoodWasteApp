@@ -1,0 +1,22 @@
+/* ClaimItem.css */
+
+.claim-item-container {
+    margin-top: 20px;
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+  }
+  
+  ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  li {
+    margin-bottom: 5px;
+  }
+  
+  .selected-item-info {
+    margin-top: 10px;
+  }
+  

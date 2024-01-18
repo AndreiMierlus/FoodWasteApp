@@ -5,9 +5,10 @@ env.config();
 
 const db = new Sequelize({
     dialect: "mysql",	
-    database: "antifoodwaste",	
-    username: process.env.DB_USER,
-    password: process.env.DB_PASS,
+    database: "foodwaste",	
+    username: "root",
+    password: "nicholas",
+    host: "127.0.0.1",
     logging: false,
     define: {
         timestamps: false,
